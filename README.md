@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kharedev247
 - 👀 I’m interested in developing solution and contributing on full stack
-- 🌱 I’m currently learning AR/VR
+- 🌱 I’m currently learning Blockchain
 - 💞️ I’m looking to collaborate on NodeJS, .Net Tech Stack
 
 <!---
